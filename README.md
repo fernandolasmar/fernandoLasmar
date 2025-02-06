@@ -1,11 +1,11 @@
 <h1 align="center">Olá! Sou o Fernando Lasmar 👋</h1>
 
-<h3 align="center">Estudante de Desenvolvimento de software Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a></h3>
+<h3 align="center">Estudante de Desenvolvimento de software Web Full Stack </h3>
 
 <div>
   <h2 align="center">Sobre min</h2>
   <p>
-    Sou o Fernando, atualmente moro em Belo Horizonte, casado e tenho um filho, sou apaixonado por esportes e viagens ao litoral.
+    Sou o Fernando, atualmente moro em Belo Horizonte, casado e tenho dois filho, sou apaixonado por esportes e viagens ao litoral.
     Apaixonado por aprender novas tecnologias e sempre buscando por experiências e conhecimentos que agregam, com objetivo de me tornar um grande desenvolvedor.
   </p>
 </div>
